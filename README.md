@@ -1,0 +1,2 @@
+# Tribonacci-with-python
+The famous and important Fibonacci series is deϐined to start with values (1, 1) and from there, each element in the sequence equals the sum of the previous two elements. However, a cute variation aptly called the Tribonacci series works otherwise the same way, but starts with a triple of values (1, 1, 1) and from there, each element equals the sum of the previous three elements
